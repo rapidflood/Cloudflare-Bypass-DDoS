@@ -4,6 +4,17 @@
 
 Advanced Node.js DDoS script featuring multiple bypass techniques, custom headers, rapid reset, and strong protection evasion.
 
+<div align="center">
+  <a href="https://ipstress.st/" target="_blank" rel="noopener">
+    <img src="https://s13.gifyu.com/images/bqJWx.gif" 
+         alt="HTTP-TORNADO - Best Layer 7 Stresser" 
+         width="100%" 
+         style="border-radius: 12px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.6);">
+  </a>
+  <br><br>
+  <h2>🔥 STRESSIFY.ST - PREMIUM DDOS STRESSER 🔥</h2>
+</div>
+
 ---
 
 ## ✨ Features
@@ -49,12 +60,6 @@ npm install
 ```
 
 Full options list available in the script.
-
-
-  
-    <img src="https://s13.gifyu.com/images/bqJWx.gif" alt="HTTP-TORNADO Banner" width="100%">
-  
-
 
 ⚠️ Disclaimer
 This tool is made for educational purposes and authorized stress testing only. Any illegal use is strictly prohibited.
